@@ -1,5 +1,5 @@
-THIS IS THE FIST TIME OF MYSELF INTRODUCING TO PYTHON FUNDAMENTALS
+<B>Indroduction to Python Fundamentals and Libraries via this Repository.<B>
 <BR>
-VIA THIS COUSE I'LL BE ROADMAPPING MY JOURNEY AND PUBLICALLY UPLOAD THE JOURNEY I GO THROUGH.
+Via this couse I'll be roadmapping my journey and publically upload the journey I go through over the span of 100 days.
 <BR>
-<I>AUTHOR- GURARPIT SINGH<I>
+<I>Author- GURARPIT SINGH<I>
