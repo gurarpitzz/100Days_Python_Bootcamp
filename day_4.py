@@ -1,6 +1,3 @@
-'''#print("Hello world\nHello World")
-print("Hello"+" Arpit")'''
-
 
 '''
 * T H E   P A S S W O R D   G E N E R A T O R *
@@ -39,5 +36,4 @@ for char in password_list:
 print(password)
 
 
-#Hard Level - Order of characters randomised:
-#e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
+
